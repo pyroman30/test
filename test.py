@@ -3,8 +3,3 @@
 123
 123cvx
 dfgr
-dfgd
-dfg
-
-sdgf
-sdg
